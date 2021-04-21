@@ -1,0 +1,51 @@
+main{
+  width:80%;
+  margin: 0 auto;
+  text-align: center;
+  color:darkblue;
+  font-size: 20px;
+  vertical-align: middle;
+}
+h1{
+  color: brown;
+}
+main > div{
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 60vh;
+  max-width: 100%;
+
+}
+.red{
+  background: red;
+  width:500px;
+  height: 200px;
+}
+.yellow{
+  background:yellow;
+  width:500px;
+  height: 200px;
+}
+.orange{
+  background: orange;
+  width:500px;
+  height: 200px;
+}
+.pink{
+  background: palevioletred;
+  width:500px;
+  height: 200px;
+}
+.green{
+  background: greenyellow;
+  width:500px;
+  height: 200px;
+}
+.black{
+  background:black;
+  width:500px;
+  height: 200px;
+}
